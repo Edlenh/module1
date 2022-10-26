@@ -51,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero images are the main image within a webpage.  */
 .hero-img {
     height: 800px;
     width: 100%;
@@ -70,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/* gave the preexisting div the main element to match html semantics  */
 main {
     width: 75%;
     display: inline-block;
@@ -96,6 +98,7 @@ main {
     font-size: 36px;
 }
 
+/* changed this div to the section element to match html semantics  */
 section {
     margin-right: 20px;
     padding: 20px;
