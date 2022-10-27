@@ -1,4 +1,4 @@
-Cloned a repo with starter clone and refactored the code to meet accessibility standards.  
+Cloned a repo with starter code and refactored the code to meet accessibility standards.  
 
 https://edlenh.github.io/module1/#social-media-marketing
 
